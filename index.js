@@ -141,7 +141,7 @@ mm.add("(min-width: 1300px)",()=>{
             scrollTrigger:{
                 trigger:".contactus-heading",
                 scroller:"body",
-                markers:true,
+                // markers:true,
                 start:"top 80%",
                 end:"top 60%",
                 scrub:2
@@ -154,7 +154,7 @@ mm.add("(min-width: 1300px)",()=>{
             scrollTrigger:{
                 trigger:".contactus-sub-heading",
                 scroller:"body",
-                markers:true,
+                // markers:true,
                 start:"top 80%",
                 end:"top 60%",
                 scrub:2
@@ -167,7 +167,7 @@ mm.add("(min-width: 1300px)",()=>{
             scrollTrigger:{
                 trigger:"#project1",
                 scroller:"body",
-                markers:true,
+                // markers:true,
                 start:"top 70%",
                 end:"top 30%",
                 scrub:2,
@@ -181,7 +181,7 @@ mm.add("(min-width: 1300px)",()=>{
             scrollTrigger:{
                 trigger:"#project2",
                 scroller:"body",
-                markers:true,
+                // markers:true,
                 start:"top 70%",
                 end:"top 30%",
                 scrub:2,
@@ -194,7 +194,7 @@ mm.add("(min-width: 1300px)",()=>{
             scrollTrigger:{
                 trigger:"#project3",
                 scroller:"body",
-                markers:true,
+                // markers:true,
                 start:"top 70%",
                 end:"top 30%",
                 scrub:2,
